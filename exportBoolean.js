@@ -1,2 +1,2 @@
-const boolean = true;
-module.exports boolean;
+const boolVal = true;
+module.exports = boolVal;
